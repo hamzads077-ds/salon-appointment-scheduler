@@ -54,5 +54,8 @@ The `salon` database has three tables:
 
 [![Stars](https://img.shields.io/github/stars/hamzads077-ds/salon-appointment-scheduler?style=for-the-badge&logo=github&color=yellow)](https://github.com/hamzads077-ds/salon-appointment-scheduler/stargazers)
 [![Forks](https://img.shields.io/github/forks/hamzads077-ds/salon-appointment-scheduler?style=for-the-badge&logo=github&color=blue)](https://github.com/hamzads077-ds/salon-appointment-scheduler/network/members)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 [![Views](https://komarev.com/ghpvc/?username=hamzads077-ds-salon-appointment-scheduler&style=for-the-badge&color=brightgreen&label=VIEWS)](https://github.com/hamzads077-ds/salon-appointment-scheduler)
 
+---
